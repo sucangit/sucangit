@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Secriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sucangit&show_icons=true&title_color=FC4349&text_color=6DBCDB&icon_color=F3B562&bg_color=FFFFFF&include_all_commits=true&count_private=true&)](https://github.com/sucangit)
+[![Sucan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sucangit&show_icons=true&title_color=FC4349&text_color=6DBCDB&icon_color=F3B562&bg_color=FFFFFF&include_all_commits=true&count_private=true&)](https://github.com/sucangit)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sucangit&hide=css,html&layout=compact&card_width=450)](https://github.com/sucangit)
